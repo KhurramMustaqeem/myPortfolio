@@ -145,6 +145,7 @@ section {
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
     transition: all 0.1s ease-in-out;
 }
+/* 0, 0, 0, 0.3  */
 
 .theme-btn:active {
     transform: translateY(-3px);
@@ -152,7 +153,7 @@ section {
 
 .theme-btn i {
     font-size: 1.4rem;
-    color: var(--color-grey-2);
+    color: var(--color-grey-3);
     pointer-events: none;
 }
 
